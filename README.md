@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Software next door
 
-Things you may want to cover:
+1. Write a ruby method that given an array of unsorted numbers returns the missing
+number(s) in the natural range for that array.
 
-* Ruby version
+2. Write some  rspec unit tests for the method you created for #1.
 
-* System dependencies
+run the tests:
+bundle exec rspec
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+kind regards
